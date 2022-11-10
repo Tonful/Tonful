@@ -1,0 +1,4 @@
+- Hello i'm Tonful
+- I'm currently learning lua
+- If you want to help me with my roblox scripts then you can talk to me on discord 
+- My discord is - Joy#0495
